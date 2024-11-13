@@ -1,4 +1,4 @@
-# Your Project
+# gRPC-sample
 
 ## Generating Protobuf and gRPC Code
 
